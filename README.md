@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project 3 - *Parsetagram*
 
 **Parsetagram** is a photo sharing app using Parse as its backend.
@@ -105,3 +106,6 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+=======
+# Parsetagram2
+>>>>>>> 0570b545a5c471036132c4e1d7781116ecea1018
